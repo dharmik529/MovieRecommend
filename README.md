@@ -9,6 +9,10 @@ install pip packages
 ```bash
 pip install -r requirements.txt
 ```
+create the similiarities
+```bash
+python3 tfidfVect.py
+```
 
 run the main file using streamlit
 ```bash
