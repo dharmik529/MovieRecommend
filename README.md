@@ -2,7 +2,7 @@
 
 activate venv with 
 ```bash
-source bin/active
+source bin/activate
 ```
 
 install pip packages
